@@ -1,0 +1,29 @@
+/* select classess using '.'*/
+
+.first_div{
+    color: blue;
+}
+.Second{
+    color: coral;
+}
+/* for selecting  id's use  '#' */
+
+#single{
+    color: purple;
+    text-decoration:line-through;
+}
+/* json sibling */
+/* anything next to aything can be selected  */
+h3 + ul{ 
+    border:4px solid purple;
+}
+
+/* descendants */
+/* all anchor tags insidea  list */
+li a{
+    color: red;
+}
+li a[href="www.npr.org"]{
+    color: blue;
+    border:2px dotted greenyellow ;
+}
