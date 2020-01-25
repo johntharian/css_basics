@@ -1,0 +1,16 @@
+body{
+    background:url(https://i.kym-cdn.com/entries/icons/original/000/021/807/ig9OoyenpxqdCQyABmOQBZDI0duHk2QZZmWg2Hxd4ro.jpg);
+}
+div{
+    background-color:blue;
+    border-color:orange;
+    border-width: 5px;
+    border-style:solid;
+}
+p{
+    color: yellow;
+}
+span{
+    background: red;
+    color: black;
+}
