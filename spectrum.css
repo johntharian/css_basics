@@ -1,0 +1,40 @@
+body{
+  background-color: black;
+}
+h1{
+  color: white;
+  font-family: 'Bebas Neue', cursive;
+  text-align: center;
+}
+td{
+  border: 5px solid black;
+  height:400px;
+  width:160px;
+}
+.art{
+  margin:auto;
+
+
+}
+#one{
+
+  background-color: #55868C;
+}
+#two{
+  background-color: #FC9F5B;
+}
+#three{
+  background-color: #fbd1a2;
+}
+#four{
+  background-color: #f2f6d0;
+}
+#five{
+  background-color: #d0e1d4;
+}
+p {
+  text-align: center;
+  color: white;
+  font-family: monospace;
+  font-size: 20x;
+}
