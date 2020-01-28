@@ -1,0 +1,47 @@
+body{
+  background-color:#073b4c;
+  color: white;
+  font-family: monospace;
+  text-align: center;
+  border: 40px solid #ef476f;
+  border-top: 0px;
+  margin: 0px;
+
+}
+form{
+  font-size: 1.5em;
+
+}
+h1{
+  font-size:50px;
+}
+h2{
+  font-size: 35px;
+}
+p{
+  font-size:25px;
+  padding-top:5%;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+#text{
+  padding-top: 20px;
+}
+#FN{
+  margin-top:10px;
+}
+#LN{
+  margin-top: 10px;
+}
+#mail{
+  margin-top: 10px;
+}
+#submit{
+  background-color:#ffd166;
+  border-radius:25px;
+  height: 40px;
+  width: 80px;
+  margin-top:7px;
+  margin-bottom: 15px;
+}
